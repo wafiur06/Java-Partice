@@ -13,6 +13,11 @@ public class sagor6 {
         System.out.println(i*2);//45*2=90 but i = 45
         System.out.println(++i / 2);//23
         System.out.println(i);//46
+        char ch = 'a';
+        System.out.println(++ch);//b
+        System.out.println(++ch);//c
+        System.out.println(ch++);//c
+        System.out.println(++ch);//e
 
 
 
