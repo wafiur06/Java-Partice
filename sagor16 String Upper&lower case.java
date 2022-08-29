@@ -10,6 +10,9 @@ public class sagor4 {
         System.out.println(e);
         String t = s.toUpperCase();
         System.out.println(t);
+        String non = "     Wafiur      ";
+        System.out.println(non);
+        System.out.println(non.trim());
 
     }
 }
